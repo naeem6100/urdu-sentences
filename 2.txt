@@ -1,1 +1,1 @@
-# one sentence per line and max 100 sentences per file
+# one sentence per line and maximum 100 sentences per file
