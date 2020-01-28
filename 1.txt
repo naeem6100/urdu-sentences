@@ -1,4 +1,4 @@
-# one sentence per line and max 100 sentences per file
+# one sentence per line and maximum 100 sentences per file
 ہم آپ کو صمیم قلب سے خوش آمدید کہتے ہیں
 یہاں طبی سہولیات بہت مہنگی ہیں
 جھوٹ کے پاؤں نہیں ہوتے
