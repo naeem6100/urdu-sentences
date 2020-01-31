@@ -11,9 +11,9 @@ Urdu Hack is used for text normalization https://github.com/urduhack/urduhack
 # Sources:
 
 Urdu sentences are extracted from the following texts
-1. Khursheed Nadeem Columns (~48000 sentences)
-2. Ayaz Ameer Columns (~24000 sentences)
-4. Amir Khakwani Columns (~13000 sentences)
+1. Khursheed Nadeem Columns 
+2. Ayaz Ameer Columns 
+4. Amir Khakwani Columns 
 3. Muhammad Waris Blog http://muhammad-waris.blogspot.com
 
 # Roadmap
