@@ -4,7 +4,9 @@ This is a collection of public domain urdu sentences.
 
 These sentences are normalized.
 
-Normalized sentences are sorted in a file according to number of words in sentence.
+Each file has a name like
+sN.txt
+which tells us that each sentence in the file have N words
 
 Urdu Hack is used for text normalization https://github.com/urduhack/urduhack
 
