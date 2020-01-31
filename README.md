@@ -1,7 +1,7 @@
 #urdu-sentences
 
 This is a collection of public domain urdu sentences. sentences are sorted in a file according to number of words in sentence
-
+Urdu Hack is used for text normalization https://github.com/urduhack/urduhack
 #Sources:
 
 sources of urdu sentences are as under
