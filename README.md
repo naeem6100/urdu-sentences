@@ -1,5 +1,10 @@
 # urdu-sentences
 
+یہ اردو کے جملوں کو ذخیرہ ہے۔
+اس ذخیرے میں موجود اردو جملوں کو نارملائز کیا گیا ہے اور ان کی لمبائی کے لحاظ سے علیحدہ فائلوں میں محفوظ کیا گیا ہے۔
+متن کی نارملائزیشن کے لیے urduhack ماڈیول استعمال کیا گیا ہے۔
+
+
 This is a collection of public domain urdu sentences.
 
 These sentences are normalized.
