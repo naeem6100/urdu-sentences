@@ -20,7 +20,9 @@ Each file has a name like
 
 sN.txt
 
-which tells us that each sentence in the file have N words
+which tells us that each sentence in the file have N words.
+
+
 [urduhack](https://github.com/urduhack/urduhack)
  is used for text normalization.
 
