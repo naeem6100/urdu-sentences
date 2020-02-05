@@ -6,7 +6,7 @@
 متن کی نارملائزیشن کے لیے
 
 
-urduhack
+[urduhack](https://github.com/urduhack/urduhack)
 
 
 ماڈیول استعمال کیا گیا ہے۔
@@ -21,8 +21,8 @@ Each file has a name like
 sN.txt
 
 which tells us that each sentence in the file have N words
-
-Urdu Hack is used for text normalization https://github.com/urduhack/urduhack
+[urduhack](https://github.com/urduhack/urduhack)
+ is used for text normalization.
 
 # Sources:
 
