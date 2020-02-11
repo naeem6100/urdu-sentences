@@ -33,6 +33,7 @@ Urdu sentences are extracted from the following texts
 2. Ayaz Ameer Columns 
 4. Amir Khakwani Columns 
 3. Muhammad Waris Blog http://muhammad-waris.blogspot.com
+4. Urdu Library by Alif Ain , corpus by Muhammad Shakir Aziz , Mohib Alvi
 
 # Roadmap
 
