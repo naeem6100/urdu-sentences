@@ -12,7 +12,7 @@
 ماڈیول استعمال کیا گیا ہے۔
 
 
-This is a collection of public domain urdu sentences.
+This is a collection/Corpus of public domain urdu sentences.
 
 These sentences are normalized.
 
@@ -35,6 +35,3 @@ Urdu sentences are extracted from the following texts
 3. Muhammad Waris Blog http://muhammad-waris.blogspot.com
 4. Urdu Library by Alif Ain , corpus by Muhammad Shakir Aziz , Mohib Alvi
 
-# Roadmap
-
-Proofreading
